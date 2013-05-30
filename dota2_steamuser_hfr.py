@@ -31,6 +31,6 @@ for user in reader:
             personaname = data["response"]["players"][0]["personaname"]
         if "avatar" in data["response"]["players"][0]:
             avatar = data["response"]["players"][0]["avatar"]
-    print """[*][img]%s[/img] [b] %s [/b] > [#FF6300][b]%s[/b][/#FF6300] [#888888]( %s )[/#888888]""" % (avatar,values['hfr'],personaname,values['id'])
+    print """[*][img]%s[/img] [#FF6300][b] %s [/b][/#FF6300] > [b]%s[/b] [#888888]( %s )[/#888888]""" % (avatar,values['hfr'],personaname,values['id'])
 
 quit()
