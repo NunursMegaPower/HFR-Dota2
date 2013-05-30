@@ -19,7 +19,7 @@ values =  { "hfr"   : "",
             "id"    : "",
           }
 
-print "[b][#FF6300]Pseudo HFR[/#FF6300] > Pseudo Steam [#888888]( ID Steam )[/#888888][/b]"
+print "[b][#FF6300]Pseudo HFR[/#FF6300] > Pseudo Steam [#888888]( ID Steam )[/#888888][/b] - [i]un clic pour rajouter dans sa liste d'amis steam ;)[/i]"
 
 for user in reader:
     values.update(user)
@@ -31,6 +31,6 @@ for user in reader:
             personaname = data["response"]["players"][0]["personaname"]
         if "avatar" in data["response"]["players"][0]:
             avatar = data["response"]["players"][0]["avatar"]
-    print """[*][img]%s[/img] [#FF6300][b] %s [/b][/#FF6300] > [b]%s[/b] [#888888]( %s )[/#888888]""" % (avatar,values['hfr'],personaname,values['id'])
+    print """[img]%s[/img] [#FF6300][b] %s [/b][/#FF6300] > [b]%s[/b] [#888888]( %s )[/#888888] [url][img]http://hfr-rehost.net/self/b9a108c51189de2bd6512a9156ece5e43808fabb.png[/img] [i]Ajouter en ami[/i][/url]""" % (avatar,values['hfr'],personaname,values['id'])
 
 quit()
