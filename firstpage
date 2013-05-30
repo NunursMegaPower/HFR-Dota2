@@ -1,4 +1,4 @@
-[quotemsg=8107124,1,148165][url]http://hfr-rehost.net/self/f44e1830a6ca8a4df9ec6f73c47086bf9e4e8f97.png[/url]
+[url]http://hfr-rehost.net/self/f44e1830a6ca8a4df9ec6f73c47086bf9e4e8f97.png[/url]
 
 [#ff0000]
 [b]Première page en construction ![/b]
@@ -21,9 +21,10 @@
       3. [#E42B1B]Et ensuite ?[/#E42B1B]
       4. [#E42B1B]FAQ[/#E42B1B]
 [u]III.  Autour du jeu[/u]
-      1. [#E42B1B]Sites utiles[/#E42B1B]
-      2. [#E42B1B]Actualité E-Sport[/#E42B1B]
-      3. [#E42B1B]Les objets cosmétiques[/#E42B1B]
+      1. [#E42B1B]Les Sites communautaires[/#E42B1B]
+	  2. [#E42B1B]Les casters[/#E42B1B]
+      3. [#E42B1B]Actualité E-Sport[/#E42B1B]
+      4. [#E42B1B]Les objets cosmétiques[/#E42B1B]
 [u]IV.  Lexique[/u]
 [u]V.   Anciens sondages[/u]
 [u]VI.  Dernier Patchnote[/u]
@@ -65,7 +66,7 @@ C'est gratuit, addictif et plusieurs millions de joueurs ont déjà sauté le pa
 [b][url=http://store.steampowered.com/video/570]Bande-annonce du jeu[/url][/b]
 [b][url=http://fr.dota2.com/]Site officiel[/url][/b]
 
-Un court aperçu des différents rôles disponibles:
+Envie de se lancer dans la bataille ? Les héros de DotA 2 sont caractérisés par leurs attributs (force, intelligence, agilité), l'évolution de ces attributs et les différents sorts qui font d'eux des personnages uniques. Ont peut dégager de grandes tendances dans les rôles et fonctions couverts par ces héros:
 
 [url]http://hfr-rehost.net/self/4856a01a9bfdb5c3f8b4f8aecb57108fd4b8227c.png[/url]
 Soutien par excellence, le héros Support est capable de dominer le début de partie grâce à des sorts puissants et a son faible besoin en objet. Essentiel à une équipe, son rôle ne se limite pas à assister ses alliés pour qu'ils puissent ammasser l'or sans encombre et défaire leurs adversaires, il achète aussi les objets nécessaires au contrôle de la carte. 
@@ -87,6 +88,9 @@ Un Jungler possède des compétences qui lui permettent de tirer profit des unit
 
 [url]http://hfr-rehost.net/self/43d004894171e1a0f3586c515b417658381d843d.png[/url]
 Détruire des tours et anhiler les vagues d'unités est le quotidien du Pusher, ceci faisant le bonheur des caisses de l'équipe. Des adversaires mal préparés auront peu de chance d'y resister et devront regarder impuissants leur base se faire raser par le rouleau compresseur.
+
+DotA 2 inclut actuellement [b]101[/b] héros (sur les 110 de DotA 1), tous uniques dans leur style de jeu. Ci-dessous, la liste des 100 premiers héros:
+[url]http://hfr-rehost.net/self/761db31c4885533c21bf890a561868876e1eaf0a.jpg[/url]
 
 à venir:
 -bref historique éventuel
@@ -147,24 +151,62 @@ Quelques liens (en anglais) conseillés par [url=http://www.reddit.com/r/DotA2/w
 [fixed]III. Autour du jeu[/fixed]
 [b]III.1. [#E42B1B]Les sites communautaires[/b][/#E42B1B]
 
-[b][url=http://www.reddit.com/r/DotA2/]reddit[/url][/b] - probablement la meilleure source d'actualités.
-[b][url=http://www.dota2bourbier.fr/]DotA 2 Bourbier[/url][/b] - Communauté francophone très active avec league et  bientôt ladder.
+[b][url=http://www.reddit.com/r/DotA2/]Reddit[/url][/b] - probablement la meilleure source d'actualités.
+[b][url=http://www.dota2bourbier.fr/]DotA 2 Bourbier[/url][/b] - Communauté francophone très active avec league et un ladder découpé en 5 divisions (seconde saison en cours)
 [b][url=http://dotabuff.com/]Dotabuff[/url][/b] - permet d'avoir des statistiques détaillées sur les joueurs.
+[b][url=http://www.dotafire.com/]Dotafire[/url][/b] - propose des guides communautaires assez complets sur l'ensemble des héros et des mécanismes de jeu
+[b][url=http://www.gosugamers.net/dota2]Gosugamer[/url][/b] - site d'actualités sur les PGM et les différents tournois en cours. Propose également un ladder des meilleures équipes mondiales
+[b][url=http://www.joindota.com/en/start]JoinDota[/url][/b] - second site d'actualité majeur. Propose un ladder alternatif assez révélateur sur le niveau des équipes mondiales. On y trouve également des infos interessantes sur le metagame et sur le jeu.
+[b][url=http://www.cyborgmatt.com/]Cyborgmatt[/url][/b] - blog où l'on décortique chaque patch majeur avec une méthode unique (thèmes, skins, nouveaux models ...)
+[b][url=http://dotametrics.wordpress.com/]DotaMetrics[/url][/b] - blog assez verbeux (mais très intéressant) sur l'analyse des matchups, des builds, de l'ensemble des statistiques selon les skill bracket etc ... Un "must-read"
 
 à venir:
--chaines twitch utiles (tobiwan, GD, proplayers...)
--chaines youtube sympa (dotacinema, Merlini...)
--cyborgmatt
+[strike]-cyborgmatt[/strike]
 -...
 
-[b]III.2. [#E42B1B]Actualité E-Sport[/b][/#E42B1B]
+[b]Fun and fun[/b]
+
+à venir:
+- chaines youtube sympa (dotacinema, Merlini...)
+- ...
+
+
+[b]III.2. [#E42B1B]Les casters[/b][/#E42B1B]
+
+Dans Dota 2, il existe 2 catégories de personnalités : les joueurs et les non-joueurs.
+Les non-joueurs peuvent très bien tenir des blogs ou faire des analyses pointues basées sur des statistiques consolidées... mais il y a surtout un catégorie bien à part qui jouit d'une célébrité certaine : [b]les casters[/b]
+
+Comme à la télé, on retrouve donc des commentateurs qui commentent événements et matches en temps réel (les matchs étant différés de 2~5 minutes généralement). Les commentaires prennent la forme d’une voix off. Souvent, le commentateur principal est assisté par un joueur professionnel apportant une analyse plus pointue sur les choix, le métagame et les actions des joueurs.
+
+Les meilleurs casters peuvent proposer des statistiques (Statsman Bruno), analyse des picks, des instant-replay, et pleins d'autres petit plusqui font la différence avec un simple replay
+
+[b]Comment écouter un caster ?[/b]
+
+- Directement depuis le jeu (attention l'achat de ticket pour accéder à certaines compétitions peut être requis), on sélectionnera ensuite le canal du caster ad-hoc pour écouter in-game ses commentaires, suivre sa caméra, etc... L'avantage étant que l'on pourra alors choisir soit même son angle de vue et piloter soit même la caméra pour suivre ce qui nous intéresse. Second avantage : la bande passante requise est minime (ce sont les info du jeu qui passent, pas de la vidéo !)
+
+- Sur des sites de live-streaming communautaires (Twitch, livestream, Youtube ...)
+Les commentaires sont les même, mais on ne peut plus piloter la caméra. C'est un stream classique qui mange beaucoup de bande passante (on peut trouver certains cast en 1080p). L'avantage est qu'ici on pourra voir les prises de vue studio des caster qui proposent la plupart du temps des analyses off-match pertinentes et des review sur les actions et sur les picks des matchs qui viennent d'avoir lieu. (perso je préfère cette méthode, c'est gratos et plus marrant)
+
+à venir:
+- lister les quelques chaines twitch utiles (tobiwan, GD, proplayers...)
+- ...
+
+[b]Les plugins des gens bien[/b]
+
+Parce que tout le monde ne veux pas remplir ses bookmarks de sites Twitch ou Youtube, certains on eu la merveilleuse idée de programmer des extensions pour navigateurs afin de retrouver plus rapidement les match à venir, les résultats récents, les streams en cours et autres récapitulatifs de ladders mondiaux. C'est pratique et vital !
+
+à venir:
+- lister les quelques plugins
+- ...
+
+[b]III.3. [#E42B1B]Actualité E-Sport[/b][/#E42B1B]
 
 [b]Les VODs de Dotacinema[/b] - http://www.dotacinema.com/vods - catalogues de grands matchs sans spoiler
 
 à venir:
 -descriptif de la scène E-Sport
 
-[b]III.3. [#E42B1B]les objets cosmétiques[/b][/#E42B1B]
+[b]III.4. [#E42B1B]les objets cosmétiques[/b][/#E42B1B]
 
 [b][url=http://dota2lounge.com/]DotA 2 Lounge[/url][/b] - Les joueurs listent les objets qu'ils vendent et qu'ils souhaitent acquérir. La fonction recherche permet de trouver le sésame et le site intègre aussi un système de pari sportif assez abouti.
 [b][url=http://www.dota2wh.com/]DotA 2 Warehouse[/url][/b] - Achat/vente d'objets via des bots. Les objets sont revendu environ 25% plus cher que le prix d'achat, mais il y a quand même moyen de faire des affaires en croisant avec d'autres marchés.
@@ -172,5 +214,4 @@ Quelques liens (en anglais) conseillés par [url=http://www.reddit.com/r/DotA2/w
 à venir:
 -préambule sur l'échange en général
 -liens
--...[/quotemsg]
-
+-...
