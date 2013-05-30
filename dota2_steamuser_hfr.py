@@ -3,6 +3,7 @@ import requests
 import json
 import sys
 import csv
+import wand
 
 STEAM_API_URL = 'http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002'
 STEAM_API_KEY = 'EFC5361D246BEE7B256C39D57F08ED9F'
