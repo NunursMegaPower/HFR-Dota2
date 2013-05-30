@@ -31,6 +31,6 @@ for user in reader:
             personaname = data["response"]["players"][0]["personaname"]
         if "avatar" in data["response"]["players"][0]:
             avatar = data["response"]["players"][0]["avatar"]
-    print """[img]%s[/img] [#FF6300][b] %s [/b][/#FF6300] > [b]%s[/b] [#888888]( %s )[/#888888] [url=http://steamcommunity.com/profiles/%s][img]http://hfr-rehost.net/self/b9a108c51189de2bd6512a9156ece5e43808fabb.png[/img][/url]""" % (avatar,values['hfr'],personaname,values['id'],values['id'])
+    print """[url=http://steamcommunity.com/profiles/%s][img]http://hfr-rehost.net/self/b9a108c51189de2bd6512a9156ece5e43808fabb.png[/img][img]%s[/img][/url] [#FF6300][b] %s [/b][/#FF6300] > [b]%s[/b] [#888888]( %s )[/#888888]""" % (values['id'],avatar,values['hfr'],personaname,values['id'])
 
 quit()
