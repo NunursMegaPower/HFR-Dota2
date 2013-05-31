@@ -52,7 +52,7 @@ for user in reader:
         draw.text((44, 25),"%s" % (values['hfr']),(241,143,24),font=font)
         draw = ImageDraw.Draw(img)
         img.save('%s.png' % values["id"])
-
-#    print """[url=http://steamcommunity.com/profiles/%s][img]http://hfr-rehost.net/self/b9a108c51189de2bd6512a9156ece5e43808fabb.png[/img][img]%s[/img][/url] [#FF6300][b] %s [/b][/#FF6300] > [b]%s[/b] [#888888]( %s )[/#888888]""" % (values['id'],avatar,values['hfr'],personaname,values['id'])
+        print """[url=http://steamcommunity.com/profiles/%s][img]https://github.com/NunursMegaPower/HFR-Dota2/blob/master/%s.png?raw=true[/img][/url]""" % (values['id'],values['id'])
 
 quit()
+
