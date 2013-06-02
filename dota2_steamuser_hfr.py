@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: cp1252 -*-
 import requests
 import json
 import sys
@@ -53,7 +54,6 @@ for user in reader:
         draw.text((44, 3),"%s" % (values['hfr'][:20]),(241,143,24),font=font)
         draw = ImageDraw.Draw(img)
         img.save('%s.png' % values["id"])
-        print """[url=http://steamcommunity.com/profiles/%s][img]https://github.com/NunursMegaPower/HFR-Dota2/blob/master/%s.png?raw=true[/img][/url]""" % (values['id'],values['id'])
-
+        print "%s's image created." % (values['hfr'])
 quit()
 
