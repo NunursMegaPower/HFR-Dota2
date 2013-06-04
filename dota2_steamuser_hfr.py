@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# -*- coding: cp1252 -*-
 import requests
 import json
 import sys
@@ -12,7 +11,7 @@ from PIL import Image as ImagePIL
 from PIL import ImageDraw
 
 STEAM_API_URL = 'http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002'
-STEAM_API_KEY = '87574B731CF28200DCBF34BFFC4A152A'
+STEAM_API_KEY = 'EFC5361D246BEE7B256C39D57F08ED9F'
 STEAM_OPT =''
 STEAM_USERNAME = ''
 STEAM_ID = ''
