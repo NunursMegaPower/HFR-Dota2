@@ -15,7 +15,7 @@ STEAM_API_KEY = 'EFC5361D246BEE7B256C39D57F08ED9F'
 STEAM_OPT =''
 STEAM_USERNAME = ''
 STEAM_ID = ''
-STEAM_USERS_CSV = 'hfr_steam_users.csv'
+STEAM_USERS_CSV = 'tournoi_hfr_steam_users.csv'
 
 autodialect = csv.Sniffer().sniff(file(STEAM_USERS_CSV).readline())
 reader = csv.DictReader(file(STEAM_USERS_CSV), dialect=autodialect)
